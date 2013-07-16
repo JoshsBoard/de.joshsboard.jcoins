@@ -128,6 +128,7 @@
 	    <item name="wcf.acp.option.jcoins_receiveCoins_addconversationreply.description"><![CDATA[Wie viele jcoins soll der Benutzer bekommen, wenn er in einer Konversation eine Antwort verfasst?]]></item>
 	    <item name="wcf.acp.option.jcoins_receiveCoins_useradd"><![CDATA[jcoins bei Beitritt]]></item>
 	    <item name="wcf.acp.option.jcoins_receiveCoins_useradd.description"><![CDATA[Wie viele jcoins soll der Benutzer bekommen, wenn der Benutzer der Community beitritt? Dabei ist es egal, ob der Benutzer im Administrationspanal erstellt wird, oder sich ganz normal registriert.]]></item>
+	    <item name="wcf.acp.option.category.jcoins.costCoins"><![CDATA[Ausgaben]]></item>
 	</category>
 
 	<category name="wcf.acp.menu">
