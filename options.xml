@@ -22,6 +22,14 @@
 			<category name="jcoins.receiveCoins.general">
 				<parent>jcoins.receiveCoins</parent>
 			</category>
+                        
+                        <category name="jcoins.costCoins">
+				<parent>jcoins</parent>                            
+                        </category>
+
+			<category name="jcoins.costCoins.general">
+				<parent>jcoins.costCoins</parent>
+			</category>
 		</categories>
 		<options>
 			<option name="module_jcoins">
