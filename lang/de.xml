@@ -131,6 +131,8 @@
 	    <item name="wcf.acp.option.jcoins_receiveCoins_useradd"><![CDATA[jcoins bei Beitritt]]></item>
 	    <item name="wcf.acp.option.jcoins_receiveCoins_useradd.description"><![CDATA[Wie viele jcoins soll der Benutzer bekommen, wenn der Benutzer der Community beitritt? Dabei ist es egal, ob der Benutzer im Administrationspanal erstellt wird, oder sich ganz normal registriert.]]></item>
 	    <item name="wcf.acp.option.category.jcoins.general"><![CDATA[Allgemein]]></item>
+	    <item name="wcf.acp.option.category.jcoins.costCoins"><![CDATA[Kosten]]></item>
+	    <item name="wcf.acp.option.category.jcoins.costCoins"><![CDATA[Allgemein]]></item>
 	</category>
 
 	<category name="wcf.acp.menu">
